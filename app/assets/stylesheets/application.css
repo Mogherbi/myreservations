@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+
+   .navbar-inverse{
+     background-color: #AFEEEE;
+   }
+
+   .question_container{
+     background-color: #d1b3ff;
+   }
